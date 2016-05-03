@@ -30,34 +30,65 @@ introduction
 ------------
 To audience: Describe a kolache to me. Now describe Pigs in a blanket. They are not the same!
 
-- Central European Origins
+body outline
+------------
+1 Central European Origins
  * The Slovac word kolo for wheel is the base word for kolac, angelised as kolache
- * yes, kolaches are round like a bun, not long like a hotdog
- * savory, dense yeast dough buns with an indent, on top, filled with fruit or poppyseeds
-- Czech Immigration to Texas
+ * Round breads are some of the earliest ritual foods (sun/moon)
+ * savory, dense yeast dough buns with an indent, on top, filled with apricot, prune, cheese, or poppyseeds
+2 Central Texas (60+ years ago)
  * 1840-1880 resulted in largest czech immigration in Central Texas
  * shiner bock, spoetzel brewery is another mark on Texas by the Czech peoples
- * kolaches sent with wedding invitations
- * dough consistency is dense not flaky like a danish
- * in the mid-20th century, hard to sell in large quantities due to dough consistency
- * new kind of dough was used and wrapped around sausage, klobasnek
- * dough allowed to rise higher for a fluffier feel, almost danish
-- Denny's
- * pigs in a blanket (pancakes and breakfast sausage)
-- Shipley's Doughnuts and Buccee's
-- Texas Czech Belt
- * West, Texas
-  1. village bakery
-  2. Czech Stop
- * La Grange
-  1. Weikel's Bakery
+ * Other influences include slow smoked meats. The most popular sausage at Texas BBQs? Kielbasa!
+ * Other influences include polka-based Tejano
+ * Popular in czech communities; kolaches sent with wedding invitations
+ * baking and selling for profit was tricky; hard to produce in large quantities
+ * yeast dough was dense; not flaky like a danish
+ * new kind of dough was developed accidentally when cream cheese fell into the dough (source: cooks country tv show)
+ * Technically, kolaches do not contain meat; these are klobasnek (plural klobasniky)
+ * Ray Kroc tried to introduce kolaches (spelled Kolacky) to the McDonalds menu but it failed, thank goodness
+2 Central Texas (Modern)
+ * bastardization of kolaches/klobasiky continues
+ * Me: Denny's pigs-in-a-blanket; breakfast sausage wrapped in pancakes
+ * My wife: pigs-in-a-blanket -> vienna sausages wrapped in commercial crescent dough
+4 West, Texas
+ * NW of Austin
+ * Village Bakery (1952)
+  - claims to have developed large quantity production
+ * Czech Stop (>30years)
+  - served rescue workers after the deadly explosion of a nearby fertilizer plant
+5 La Grange
+ * between SA and HOU, north of i-10
+ * Weikel's Bakery (~1929)
+6 Ellinger
+ * 14mi south of La Grange
+ * Hruska's bakery (~1912)
+7 Schulenburg
+ * south of La Grange and i-10
+ * original Kountry Bakery (1979)
+8 Houston
+ * Kolache Factory (1982)
+9 Most any road-stop gas station between SA, ATX, DFW, and HOU
+ * Buccee's
+ * Many doughnut shops including Shipley's
+10 Diaspora
+ * extpatriate texans
+ * happy sparrow in POR, OR
+  - banana and nutella kolaches
+ * Brooklyn Kolache Co.
+  - mexican hot dog variation: bacon-wrapped hot dog in the kolache
+ * Lake Charles, Lousiana
+  - sell crayfish versions they call kalotchies
+ * Tex-Mex and now Tex-Czech
+  
+conclusion
+----------
+While some of the popularity is riding a wave of trend, this is not a fad that will go away.
+As long as the history of the Kolache is not lost on us, the Czech and Texas Kolache can live side by side.
 
-
-[the kolache: czech, texan, or all-american] [http://nytimes.com/2013/10/09/dining/the-kolache-czech-texan-or-all-american-all-three.html]
-
-[texas kolache trail] [ http://texashighways.com/food-drink/item/6775-czech-out-the-texas-kolache-trail]
-
-[ocd] [http://obsessivecooking.com/2014/05/authentic-czech-kolaches.html]
-
-[tori avey] [http://toriavey.com/toris-kitchen/2013/08/kolache//]
-
+References
+----------
+* [the kolache: czech, texan, or all-american?](http://nytimes.com/2013/10/09/dining/the-kolache-czech-texan-or-all-american-all-three.html)
+* [texas kolache trail](http://texashighways.com/food-drink/item/6775-czech-out-the-texas-kolache-trail)
+* [obessive cooking](http://obsessivecooking.com/2014/05/authentic-czech-kolaches.html)
+* [tori avey](http://toriavey.com/toris-kitchen/2013/08/kolache/)
