@@ -32,11 +32,11 @@ To audience: Describe a kolache to me. Now describe Pigs in a blanket. They are 
 
 body outline
 ------------
-1 Central European Origins
+1. Central European Origins
  * The Slovac word kolo for wheel is the base word for kolac, angelised as kolache
  * Round breads are some of the earliest ritual foods (sun/moon)
  * savory, dense yeast dough buns with an indent, on top, filled with apricot, prune, cheese, or poppyseeds
-2 Central Texas (60+ years ago)
+2. Central Texas (60+ years ago)
  * 1840-1880 resulted in largest czech immigration in Central Texas
  * shiner bock, spoetzel brewery is another mark on Texas by the Czech peoples
  * Other influences include slow smoked meats. The most popular sausage at Texas BBQs? Kielbasa!
@@ -47,31 +47,31 @@ body outline
  * new kind of dough was developed accidentally when cream cheese fell into the dough (source: cooks country tv show)
  * Technically, kolaches do not contain meat; these are klobasnek (plural klobasniky)
  * Ray Kroc tried to introduce kolaches (spelled Kolacky) to the McDonalds menu but it failed, thank goodness
-2 Central Texas (Modern)
+3. Central Texas (Modern)
  * bastardization of kolaches/klobasiky continues
  * Me: Denny's pigs-in-a-blanket; breakfast sausage wrapped in pancakes
  * My wife: pigs-in-a-blanket -> vienna sausages wrapped in commercial crescent dough
-4 West, Texas
+4. West, Texas
  * NW of Austin
  * Village Bakery (1952)
   - claims to have developed large quantity production
  * Czech Stop (>30years)
   - served rescue workers after the deadly explosion of a nearby fertilizer plant
-5 La Grange
+5. La Grange
  * between SA and HOU, north of i-10
  * Weikel's Bakery (~1929)
-6 Ellinger
+6. Ellinger
  * 14mi south of La Grange
  * Hruska's bakery (~1912)
-7 Schulenburg
+7. Schulenburg
  * south of La Grange and i-10
  * original Kountry Bakery (1979)
-8 Houston
+8. Houston
  * Kolache Factory (1982)
-9 Most any road-stop gas station between SA, ATX, DFW, and HOU
+9. Most any road-stop gas station between SA, ATX, DFW, and HOU
  * Buccee's
  * Many doughnut shops including Shipley's
-10 Diaspora
+10. Diaspora
  * extpatriate texans
  * happy sparrow in POR, OR
   - banana and nutella kolaches
