@@ -1,6 +1,6 @@
 ---
 layout: post
-title: toastmasters #2
+title: Toastmasters CC2 Texas Kolache
 date: 2016-05-02
 ---
 
@@ -24,4 +24,40 @@ finally, a problem-solution outline is used to describe a problem and then revea
 my topic is the origin of the Texas kolche. I believe I have a choice of several outline types here. I could do a chronological, topical, or a spatial outline. I could organize my speech historically with a chronological outline of how the food was developed. with a spatial out line, i might group those evolutionary variations by geographic region from Europe to central Texas. and with a topical outline I could organize the speech by the variations themselves. I could probably also do a hybrid of all three, where chronological is topmost organization, spatial is secondary, and topical is the last in the hierarchy.
 
 
+However, since I only have 7 minutes max for my speech, I'm going to keep it simple. I'll do a spatial outline with a loose grasp for chronology.
+
+introduction
+------------
+To audience: Describe a kolache to me. Now describe Pigs in a blanket. They are not the same!
+
+- Central European Origins
+ * The Slovac word kolo for wheel is the base word for kolac, angelised as kolache
+ * yes, kolaches are round like a bun, not long like a hotdog
+ * savory, dense yeast dough buns with an indent, on top, filled with fruit or poppyseeds
+- Czech Immigration to Texas
+ * 1840-1880 resulted in largest czech immigration in Central Texas
+ * shiner bock, spoetzel brewery is another mark on Texas by the Czech peoples
+ * kolaches sent with wedding invitations
+ * dough consistency is dense not flaky like a danish
+ * in the mid-20th century, hard to sell in large quantities due to dough consistency
+ * new kind of dough was used and wrapped around sausage, klobasnek
+ * dough allowed to rise higher for a fluffier feel, almost danish
+- Denny's
+ * pigs in a blanket (pancakes and breakfast sausage)
+- Shipley's Doughnuts and Buccee's
+- Texas Czech Belt
+ * West, Texas
+  1. village bakery
+  2. Czech Stop
+ * La Grange
+  1. Weikel's Bakery
+
+
+[the kolache: czech, texan, or all-american] [http://nytimes.com/2013/10/09/dining/the-kolache-czech-texan-or-all-american-all-three.html]
+
+[texas kolache trail] [ http://texashighways.com/food-drink/item/6775-czech-out-the-texas-kolache-trail]
+
+[ocd] [http://obsessivecooking.com/2014/05/authentic-czech-kolaches.html]
+
+[tori avey] [http://toriavey.com/toris-kitchen/2013/08/kolache//]
 
