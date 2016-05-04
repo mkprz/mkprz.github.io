@@ -2,8 +2,8 @@
 layout: post
 title: TM CC2 Texas Kolache
 date: 2016-05-02
-categories: toastmasters, cc
-tags: toastmasters, kolache
+categories: toastmasters cc
+tags: toastmasters kolache
 ---
 
 # Public speaking and Leadership

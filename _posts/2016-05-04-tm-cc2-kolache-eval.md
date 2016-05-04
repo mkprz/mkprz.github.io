@@ -1,9 +1,9 @@
 ---
 layout: post
-title: TM CC2 Texas Kolache
+title: TM CC2 Texas Kolache Evaluation
 date: 2016-05-04
-categories: toastmasters, cc, evaluation
-tags: toastmasters, kolache
+categories: toastmasters cc evaluation
+tags: toastmasters kolache
 ---
 
 # Texas Kolache - Evaluation
@@ -16,10 +16,11 @@ tags: toastmasters, kolache
  - 8m 7s
  - over, disqualified
 * Evaluator
- - Tony Reyna
+ - Tony Reyna, ACB
+
 
 | Category | Rating (1-5) | Comments |
-| ---------|:-------------|:---------|
+|:-------- | ------------:| -------- |
 |Speech Value (interesting, meaningful to audience) | 5 | |
 |Prepartion (Research, rehearsal) | 5 | |
 |Organization (logical, clear) | left blank | |
@@ -27,6 +28,7 @@ tags: toastmasters, kolache
 |Body | 5 | |
 |Conclusion | 4 | |
 |Transitions | 4 | |
+
 
 * What could the speaker have done differently to make speech more effective?
  - impactful opening with increased volume for emphasis
