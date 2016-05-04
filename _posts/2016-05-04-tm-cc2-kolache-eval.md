@@ -22,7 +22,7 @@ tags: toastmasters kolache
 | Category | Rating (1-5) | Comments |
 |:-------- | ------------:| -------- |
 |Speech Value (interesting, meaningful to audience) | 5 | |
-|Prepartion (Research, rehearsal) | 5 | |
+|Preparation (Research, rehearsal) | 5 | |
 |Organization (logical, clear) | left blank | |
 |opening (Captivation, led into topic) | 4 | |
 |Body | 5 | |
@@ -42,8 +42,8 @@ tags: toastmasters kolache
 Anonymous feedback from audience
 --------
 
-1. pause when you are moving frm sentence to sentence.
-   Once you remove filler, you can then close the ga of your pauses.
+1. pause when you are moving from sentence to sentence.
+   Once you remove filler, you can then close the gap of your pauses.
    But try the pause anytime you fell like saying UM or AH.
    Great content. Nice facts!
 2. Very original topic. Now im hungry.
@@ -58,11 +58,11 @@ Anonymous feedback from audience
  - hand went into pocket Once
  - 40+ ums
  - record yourself, it will help
-5. you are coming along greatly!! clear vocalsl great animation. Work on movement
+5. you are coming along greatly!! clear vocals, great animation. Work on movement
    with meaning and speaking w/o notes. Great job.
 6. started speech with "so". Need a more dramatic opening. Great speaking voice.
    Good presence in front of room. congratulations.
-7. Great speach, continue to give speeches, you will overcome use of filler words.
+7. Great speech, continue to give speeches, you will overcome use of filler words.
 8. Much more relaxed delivery. Content was great, got lost @ 2:30 mark.
  - use of "uhs" and "ums"
   * practice with video will eliminate this habit
@@ -70,7 +70,7 @@ Anonymous feedback from audience
   * practice, practice, practice
  - much better than first speech! i liked the content a great deal, esp. organization
 9. informative, have to work on "ums" and "uhs"
-10. good job. away from lecturn, good use of notes
+10. good job. away from lectern, good use of notes
 11. absolutely enjoyed listening to your speech. Specifically liked pace and 
-    the-kolache-czech-texan-or-all-american-all-three
+    tone
 12. be certain of you information. Use "according to ..." if you are not sure
