@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Toastmasters CC2 Texas Kolache
+title: TM CC2 Texas Kolache
 date: 2016-05-02
+categories: toastmasters, cc
+tags: toastmasters, kolache
 ---
 
 # Public speaking and Leadership
@@ -90,5 +92,5 @@ References
 ----------
 * [the kolache: czech, texan, or all-american?](http://nytimes.com/2013/10/09/dining/the-kolache-czech-texan-or-all-american-all-three.html)
 * [texas kolache trail](http://texashighways.com/food-drink/item/6775-czech-out-the-texas-kolache-trail)
-* [obessive cooking](http://obsessivecooking.com/2014/05/authentic-czech-kolaches.html)
+* [obessive cooking](http://www.obsessivecooking.com/2014/05/authentic-czech-kolaches.html)
 * [tori avey](http://toriavey.com/toris-kitchen/2013/08/kolache/)
