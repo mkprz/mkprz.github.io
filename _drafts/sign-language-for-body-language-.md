@@ -7,3 +7,4 @@ when comparing things in asl, point to different spaces in your immediate area t
 
 direction of your dominant hand changes the meaning of your sign.
 
+list other tools for practicing body language
