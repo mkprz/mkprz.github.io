@@ -6,9 +6,6 @@ layout: default
 * Email: kf5qvo@gmail.com
 * Others: <a href="linkedin.com/in/mkprz" target="_blank">LinkedIn</a> :: <a href="github.com/mkprz" target="_blank">GitHub</a>
 
-## Summary
-Full-stack software engineer with a strong background in OO analysis and design, web technologies, and c/c++, looking for new opportunities as a technical writer or senior software engineer.
-
 ## Tech Skills
 <style>
   .tag {
@@ -18,11 +15,19 @@ Full-stack software engineer with a strong background in OO analysis and design,
     margin: 2px;
     border: 1px solid black;
     background-color: #c0c0c0;
-    list-style:none;
+	list-style:none;
+	list-style-position:none;
   }
   .tag:hover {
     background-color: #dfdfdf;
-  }
+	}
+
+	.tag li {
+	list-style:none;
+	padding:0;
+	color:black;
+	}
+
 </style>
 
 ### Strong Backgound In:
