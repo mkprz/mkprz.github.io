@@ -122,45 +122,58 @@ layout: default
 
 ## Experience
 ### Professional
-**Innervent, San Antonio TX &mdash; Software Developer &mdash; March 2012 - Present**
-* Modernized legacy geolocation modules in new projects to leverage mobile device cache
+**2012-Present &mdash; Rails Developer &mdash; Innervent**
+* Streamlined customer workflows
+* Worked with customers to get at the needs behind their demands
+* Modernized internal geolocation modules in new projects to leverage mobile device cache
+* Implemented AJAX file uploads bypassing Rails UJS behavior
 * Supported satellite Rails projects while working on my own projects
 * Wrote tutorials and guides for internal developers
 * Designed and Developed...
-  * complex workflows from customer requirements
   * dynamic Gantt charts using Rails and FusionCharts library
-  * dynamic, data rich pages using Datatables jQuery plugin, prawn_pdf, and axlsx
+  * data rich pages using Datatables jQuery plugin, prawn_pdf, and axlsx
   * spreadsheets including formulas and conditional formatting with Handsontable jQuery plugin
   * templating for customer's project and milestone tracking using ActiveRecord
-  * self-serve features like import, checklists, and vendor scorecards using CSV, roo, and ActiveRecord
-  * outbound email notification system using Mailgun API.
-  * inbound email data writes using Mailgun Routing API.
+  * self-serve features like data import using CSV, Roo, and ActiveRecord
+  * customer's vendor scorecard with self-serve metrics that could change quarter to quarter
+  * outbound email notification system using Mailgun API
+  * inbound email data writes using Mailgun Routing API
 
-**Trusted Computer Solutions (now Forcepoint), San Antonio TX**
-: Senior Secure Engineer &mdash; March 2006 - March 2012
-: VDesigned new product features including: real-time tracking of users' field subcontractors using javascript geolocation, dynamic Gantt charts, project templating and milestone tracking, online spreadsheets including formulas and conditional formatting with Handsontable jQuery plugin, 
+**2006-2012 &mdash; Sr. Secure Engineer &mdash; Trusted Computer Solutions (now Forcepoint), San Antonio TX**
+* Acquired TS/SCI clearance
+* Trainined multiple software engineering teams onsite on how use our software
+* Developed multi-threaded file manager for the Trusted Solaris 8 OS using C and the Qt framework and enforcing Mandatory Access Control (MAC) policy
+* Compiled projects using make, gcc, and ant
+* Managed projects versions on subversion (svn)
+* Developed modules for Apache webserver to process incoming and outgoing data using C
+* Wrote Java desktops applications for security administration via SELinux desktops
+* Managed local office wiki
 
-**Maze Technologies, San Antonio TX**
-: Software Developer &mdash; April 2004 - March 2006 
-: Led develpment and design of a suite of web applications...
+**2004-2006 &mdash; Business Analyst &mdash; Maze Technologies, San Antonio TX**
+* Collected and synthesized requirements for large Legecy-to-Enterprise projects
+* Developed projects using ASP.NET and Java J2EE
+* Developed perl scripts for internal software engineering tools
 
-**Texas Transportation Institute, San Antonio TX**
-: Student Programmer &mdash; May 2000 - April 2004
-: Led develpment and design of a suite of web applications...
+**2000-2004 &mdash; Student Programmer &mdash; Texas Transportation Institute, San Antonio TX**
+* Developed VisualBasic applications for traffic research using ESRI software libraries
 
 ### Academic
-Algorithm Complexity of Bezier Curve in Engineering Classes
-: Algorithm Analyist &mdash; Jan 2001 - May 2001
-: Analyzed graduate students' algorithms for generating Bezier curves implemented in the c programming language. Thier performance in the class was compared to their alogrithm complexity and the work was published in the International Journal of Industrial Engineering in 2001.
+**2001 &mdash; undergraduate researcher &mdash; CAD/CAM Pedagogy with Bezier curve generation as a Case-study**
+* Analyzed graduate students' algorithms for generating Bezier curves implemented in several programming languages: c, java, and matlab
+* Compared their performance in tests to their alogrithmic complexities and the work was published in the International Journal of Industrial Engineering in 2001.
+* Self-taught matlab and java applets for this work
 
-Research Tool for Measuring Aggressive Driving
-: Undergraduate Project &mdash; Aug 2002 - May 2003
-: Engineered and developed a tool on Windows CE to collect live data simultaneously from a GPS unit and an accelerameter using threads in C++ for Windows CE. Planned hardware deployments for both development and production, including null modems and serial port adaptors.
+**2002-2003 &mdash; undergraduate researcher &mdash; Research Tool for Measuring Aggressive Driving**
+* Engineered and developed a tool on the Windows CE platform to collect live data simultaneously from an iPharos GPS unit and an ADXL202 accelerameter using threads in C++ for Windows CE.
+* Planned hardware deployments for both development and production, prototyping with null modems and serial port adaptors.
 
-Expert System for SOHO Router Configuration
-: Graduate Project &mdash; Sep 2013 - May 2015
-: Led develpment and design of a suite of web applications...
-
+**2012-2015 &mdash; gradute researcher &mdash; Expert System for SOHO Router Configuration**
+* Researched misconfigured routers as cause of a majority of insecure networks
+* Originally planned on designing a formal langauage or domain-language using JetBrains' MPS that would translate to a set of instructions that could be run remotely either through SNMP or SSH (think devops automation)
+* Realized could do most good by targeting residential consumers
+* Designed a Wizard-interface using python and the Pyramid web framework that targets the OpenWRT firmware and builds a Unified Configuration Interface (uci) script to configure the user's Small Office/Home Office(SOHO) router.
+* Refactored orignal design from the Django web framework as it would not allow the flexibilty needed
+* Developed the CLIPS backend using pyCLIPS and the flexibility of the Pyramid web framework
 
 ### For Fun
 10BitWorks Hackerspace, San Antonio TX
