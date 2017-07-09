@@ -175,16 +175,22 @@ layout: default
 * Refactored orignal design from the Django web framework as it would not allow the flexibilty needed
 * Developed the CLIPS backend using pyCLIPS and the flexibility of the Pyramid web framework
 
-### For Fun
-10BitWorks Hackerspace, San Antonio TX
-: Web Master &mdash; 2010-2013
-: Led develpment and design of a suite of web applications...
+### Extra / Volunteer
+2016-2017 &mdash; V.P. of Education &mdash; Toastmasters, club #6457 Texas Talkers, San Antonio TX
+* Chaired club contets
+* Researched mentoring programs and ways to promote our members within their professional network
 
-10BitWorks Hackerspace, San Antonio TX
-: Member Payments and Access Control &mdash; 2011
-: Led develpment and design of a suite of web applications...
+2013 &mdash; Arduino Programmer &mdash; Luminaria Arts Festival, San Antonio TX
+* Programmed Arduinos to respond to local button presses using debouncing techniques
+* Programmed Arduino for remote controlling several other Arduinos over radio
+* Designed and programmed interface for local control using only the LEDs for output
+* Soldered and built the LED shirts and the local control boxes including power supply
 
-Luminaria Arts Festival, San Antonio TX
-: 'Bioilluminecence' Arduino Programmer &mdash; Dec 2012 - March 2012
-: Led develpment and design of a suite of web applications...
+2010-2013 &mdash; Co-Founder / President / Website admin &mdash; 10BitWorks Hackerspace, San Antonio TX
+* Registered 10bitworks as an Educational 501(3)c non-proft; researched and wrote the required documents
+* Served as President from 2012-2013
+* Ran successfull fundraisers and campaigns for getting equipment
+* Developed paid membership on-boarding system using Wordpress, SeltzerCRM, DokuWiki, php, and MySql
+* Developed e-commerce pages for selling Arduinos, accessories, and member-held classes using Dwolla API, Paypal API, php, and MySql
+
 
