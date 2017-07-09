@@ -4,7 +4,7 @@ layout: default
 
 ## Contact
 * Email: kf5qvo@gmail.com
-* Others: <a href="linkedin.com/in/mkprz" target="_blank">LinkedIn</a> :: <a href="github.com/mkprz" target="_blank">GitHub</a>
+* Others: <a href="https://linkedin.com/in/mkprz" target="_blank">LinkedIn</a> :: <a href="https://github.com/mkprz" target="_blank">GitHub</a>
 
 ## Tech Skills
 <style>
@@ -185,6 +185,13 @@ layout: default
 * Programmed Arduino for remote controlling several other Arduinos over radio
 * Designed and programmed interface for local control using only the LEDs for output
 * Soldered and built the LED shirts and the local control boxes including power supply
+
+2011-2014 &mdash; Workshop Coordinator &mdash; 10BitWorks Hackerspace, San Antonio TX
+* Ran programming workshops on Arduino
+* Ran weekly C programming study groups using online materials from learncodethehardway.org
+* Co-developed and ran several workshops on soldering
+* Designed and sourced a kit where participants would create a "knight rider" LED toy using the 555 timer IC
+* Designed and sourced a kit with local chiptune band, VictimCache, where participants created their own chiptune instrument that then allowed audience participation in a live chiptune concert that followed the workshop
 
 2010-2013 &mdash; Co-Founder / President / Website admin &mdash; 10BitWorks Hackerspace, San Antonio TX
 * Registered 10bitworks as an Educational 501(3)c non-proft; researched and wrote the required documents
