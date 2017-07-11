@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+## Download PDF
+<a href="mperez_resume.pdf" target="_blank">mperez_resume.pdf</a>
 
 ## Contact
 * Email: kf5qvo@gmail.com
